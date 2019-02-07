@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Mr.ocumare/Desktop/3_2/main.cpp
+vector
+-
+list
+-
+cassert
+-
+queue
+-
+cstdint
+-
+iostream
+-
+algorithm
+-
+

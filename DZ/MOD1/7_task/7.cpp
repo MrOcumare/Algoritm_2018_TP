@@ -1,7 +1,5 @@
 #include <iostream>
 
-
-
 template <class T>
 void PrintArray(int n, T*Array){
     for (int i = 0; i < n; i++){
